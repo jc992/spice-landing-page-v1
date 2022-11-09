@@ -5,11 +5,8 @@ const Video = styled.video`
   position: fixed;
   top: 50%;
   left: 50%;
-  z-index: -100;
-  min-width: 100%;
-  min-height: 100%;
-  width: auto;
-  height: auto;
+  z-index: 0;
+  height: 100%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);

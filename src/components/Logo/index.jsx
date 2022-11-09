@@ -4,7 +4,7 @@ const Img = styled.img`
   position: absolute;
   top: 560px;
   left: 340px;
-  margin: -500px 0px 0px -100px;
+  margin: -575px 0px 0px -140px;
 
   @media only screen and (max-width: 1200px) {
     left: 250px;
